@@ -1,6 +1,6 @@
 # How to use (EVENT)
 
-### Move ui right or left, in percentage, 50% middle of the screen, without the % symbol
+#### Move ui right or left, in percentage, 50% middle of the screen, without the % symbol
 ```
 x = 50
 ```
