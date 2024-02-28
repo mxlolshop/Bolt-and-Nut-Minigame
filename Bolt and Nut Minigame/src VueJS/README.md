@@ -1,4 +1,4 @@
-# celularprojeto
+# Bolt and Nut Minigame
 
 ## Project setup
 ```
